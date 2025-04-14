@@ -1,6 +1,6 @@
 # Website-RAG-using-Huggigface-model
 
-##Prerequisites
+**Prerequisites**
 
 ###pip install transformers langchain langchain_community torch accelerate
 
