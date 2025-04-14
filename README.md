@@ -2,10 +2,10 @@
 
 **Prerequisites**
 
-###pip install transformers langchain langchain_community torch accelerate
+pip install transformers langchain langchain_community torch accelerate
 
-###pip install faiss-cpu  (use faiss-gpu if system is equiped with GPU)
+pip install faiss-cpu  (use faiss-gpu if system is equiped with GPU)
 
-###import locale
+import locale
 
-###locale.getprefferedcoding=lambda:"UTF-8"
+locale.getprefferedcoding=lambda:"UTF-8"
